@@ -1,0 +1,2 @@
+Potion, rare
+Lorsque vous buvez cette potion, elle gu?rit de toute maladie qui vous afflige, et supprime les ?tats aveugl?, assourdi, paralys? et empoisonn?. Le liquide rouge clair poss?de de minuscules bulles de lumi?re. 

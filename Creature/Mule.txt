@@ -1,0 +1,28 @@
+Mule
+[ Mule ]
+B?te de taille M, sans alignement
+Classe d'armure 10
+Points de vie 11 (2d8 + 2)
+Vitesse 12 m
+FOR
+14 (+2)
+DEX
+10 (+0)
+CON
+13 (+1)
+INT
+2 (-4)
+SAG
+10 (+0)
+CHA
+5 (-3)
+Sens Perception passive 10
+Langues ?
+Puissance 1/8 (25 PX)
+
+B?te de somme. La mule est consid?r?e comme un animal de taille G pour d?terminer sa capacit? de charge.
+
+Pied s?r. La mule a un avantage aux jets de sauvegarde de Force et Dext?rit? effectu?s pour ne pas tomber ? terre.
+Actions
+
+Sabots. Attaque au corps ? corps avec une arme : +2 au toucher, allonge 1,50 m, une cible. Touch? : 4 (1d4 + 2) d?g?ts contondants.
