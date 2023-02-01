@@ -5,7 +5,7 @@ Classe d'armure 18 (harnois)
 Points de vie 52 (8d8 + 16)
 Vitesse 9 m
 FOR
-50 (+1)
+60 (+5)
 DEX
 11 (+0)
 CON
